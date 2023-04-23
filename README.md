@@ -14,3 +14,5 @@ mkdocs serve -a 0.0.0.0:8030
 ```
 
 Open browser on localhosr:8030
+
+Check out [documentation](https://mkdocs-magicspace.alnoda.org/)
